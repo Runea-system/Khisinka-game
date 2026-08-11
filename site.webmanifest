@@ -1,0 +1,13 @@
+{
+  "name": "KISHINKAI — Shadow Path",
+  "short_name": "KISHINKAI",
+  "description": "A browser-based 3D ninja combat game. Original world, characters, and techniques.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0e14",
+  "theme_color": "#c8412e",
+  "icons": [
+    { "src": "/icon-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
